@@ -1,1 +1,2 @@
-# system-programming-emulator-
+# system-programming-emulator
+Эмулятор по лабораторной работе по системному программированию
